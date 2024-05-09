@@ -1,0 +1,16 @@
+{
+    "slidesFirstCarousel": [
+      {
+        "src": "imgs/20anos-d.webp",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "imgs/acd-2-d.webp",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "imgs/pedreiro-d.webp",
+        "alt": "Image 3 for carousel"
+      }
+    ]
+  }

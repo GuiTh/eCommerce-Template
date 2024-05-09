@@ -1,0 +1,12 @@
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    opacity: 0.9;
+    z-index: 1;
+}
+#menuHeader{
+    font-weight: bold;
+    cursor: pointer;
+}
+

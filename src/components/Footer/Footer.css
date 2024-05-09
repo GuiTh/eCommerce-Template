@@ -1,0 +1,51 @@
+footer{
+    background-color: whitesmoke;
+    padding: 100px 0;
+    
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding-top: .5em;
+}
+.listaDeLinks ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.listaDeLinks ul li{
+    padding: 0 15px;
+    font-size: 25px;
+    font-weight: bold;
+    color: brown;
+}
+
+
+.faleConosco{
+    font-weight: bold;
+    margin: 50px 0;
+    font-size: 25px;
+    color: brown;
+
+}
+
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.conteudo h4{
+    color: brown;
+
+}
+
+.conteudo li{
+    list-style: none;
+}
+
+.conteudo h4{
+    text-decoration: underline;
+}
